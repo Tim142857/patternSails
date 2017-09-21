@@ -1,3 +1,9 @@
-# rpg2
+# Pattern Sails
 
-a [Sails](http://sailsjs.org) application
+Base pour un projet sails
+
+Installé:
+
+-Connection avec serveur MySQL
+
+-Authentification en place avec passport.js(User, UserController, AuthController)
