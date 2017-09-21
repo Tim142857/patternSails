@@ -7,3 +7,7 @@ Installé:
 -Connection avec serveur MySQL
 
 -Authentification en place avec passport.js(User, UserController, AuthController)
+
+-Bootstrap(js/css)
+
+-Jquery
